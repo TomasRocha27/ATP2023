@@ -1,3 +1,5 @@
+###Feito por TomásRocha, uploaded às 22:10 do dia 9 de outubro de 2023
+
 ###funções
 MainList=[]
 import random
